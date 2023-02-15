@@ -1,0 +1,4 @@
+1002	rohit
+1004	priya
+1004	neha
+1006	rahul
